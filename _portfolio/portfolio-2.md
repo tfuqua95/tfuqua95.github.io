@@ -1,6 +1,6 @@
 ---
 title: "Gorilla Scratching"
-excerpt: "Knife and Scratchboard<br/><img src='/images/gorilla_scratching.jpg'>"
+excerpt: "Knife and Scratchboard<br/><img src='/images/gorilla_scratching.jpg' width='200'>"
 collection: portfolio
 ---
 
