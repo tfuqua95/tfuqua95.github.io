@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-#Education#
 **PhD Candidate**
 July 2017 - present
 European Molecular Biology Laboratory
