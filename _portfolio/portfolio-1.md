@@ -1,6 +1,6 @@
 ---
 title: "Tiger Scratching"
-excerpt: "Knife and Scratchboard<br/><img src='/images/tiger_scratching.jpg' width="200">"
+excerpt: "Knife and Scratchboard<br/><img src='/images/tiger_scratching.jpg' width='200'>"
 collection: portfolio
 ---
 
