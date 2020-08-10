@@ -6,7 +6,7 @@ excerpt: 'This manuscript is currently under peer review.'
 date: 2020-08-18
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2020.04.17.046052v1.full.pdf'
-citation: 'Fuqua et al. (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Fuqua et al. (2020). &quot;Dense encoding of developmentla regulatory information may constrain evolvability.&quot; <i>bioRxiv 1</i>. 1(1).'
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
