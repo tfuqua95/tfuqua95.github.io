@@ -8,7 +8,6 @@ venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2020.04.17.046052v1.full.pdf'
 citation: 'Fuqua et al. (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
